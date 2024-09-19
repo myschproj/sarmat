@@ -2,10 +2,10 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: "Mohsin Hayat's Resume",
+    title: "Сайт Сармата Гаппоева",
     description:
-      'Mohsin Hayat is a passionate full stack web developer with extensive experience in frontend, backend, automation and scaling of multiple web applications.',
-    image: '/images/Mohsin_DP.jpg'
+      'Сармат Гаппоев - это очень крутой разработчик ваще жесть умеет код писать я в ахуе.',
+    image: '/images/Moh.jpg'
   }
 
   return (
