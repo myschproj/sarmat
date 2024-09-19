@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
+title: Посты
 date: 2022-03-29
 ---
 
-# Written for you
+# Написаны спешл фо ю
